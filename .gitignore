@@ -1,0 +1,33 @@
+# Binaries for current project
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*_test
+
+# Dependency directories
+vendor/
+
+# Go module cache
+.go/
+
+# IDE-specific files (examples)
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Build outputs
+build/
+dist/
+pkg/
+
+# Log files
+*.log
+
+# Environment variables and sensitive data
+.env
+.local
